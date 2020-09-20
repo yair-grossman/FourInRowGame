@@ -1,0 +1,33 @@
+#gameBoard {
+  width:1200px;
+  margin-left: 20px;
+}
+#gameBoard td{
+  height: 120px;
+  width: 120px;
+  text-align: center;
+}
+
+#buttons {
+  width:1200px;
+  margin: 20px;
+}
+
+#players {
+  width:1280px;
+  margin: 20px 20px 0px;
+}
+
+#players td {
+  padding: 0 20px 0;
+  height: 100px;
+  font-size: 350%;
+}
+
+#buttons td {
+  padding: 0 20px 0;
+  height: 100px;
+  font-size: 200%;
+  background-color: gray;
+  color: white;
+}
